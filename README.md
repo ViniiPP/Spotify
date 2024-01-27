@@ -1,6 +1,6 @@
 
 # Projeto Spotify Alura
-https://viniipp.github.io/Spotify/
+Site em funcionamento: https://viniipp.github.io/Spotify/
 
 **Projeto desenvolvido durante a Imersão Front-End da Alura.**
 
